@@ -1,0 +1,13 @@
+C:\Users\Elie\Documents\ESILV\A3\POO\TD7\TD7\bin\Debug\netcoreapp3.1\TD7.exe
+C:\Users\Elie\Documents\ESILV\A3\POO\TD7\TD7\bin\Debug\netcoreapp3.1\TD7.deps.json
+C:\Users\Elie\Documents\ESILV\A3\POO\TD7\TD7\bin\Debug\netcoreapp3.1\TD7.runtimeconfig.json
+C:\Users\Elie\Documents\ESILV\A3\POO\TD7\TD7\bin\Debug\netcoreapp3.1\TD7.runtimeconfig.dev.json
+C:\Users\Elie\Documents\ESILV\A3\POO\TD7\TD7\bin\Debug\netcoreapp3.1\TD7.dll
+C:\Users\Elie\Documents\ESILV\A3\POO\TD7\TD7\bin\Debug\netcoreapp3.1\TD7.pdb
+C:\Users\Elie\Documents\ESILV\A3\POO\TD7\TD7\obj\Debug\netcoreapp3.1\TD7.csprojAssemblyReference.cache
+C:\Users\Elie\Documents\ESILV\A3\POO\TD7\TD7\obj\Debug\netcoreapp3.1\TD7.AssemblyInfoInputs.cache
+C:\Users\Elie\Documents\ESILV\A3\POO\TD7\TD7\obj\Debug\netcoreapp3.1\TD7.AssemblyInfo.cs
+C:\Users\Elie\Documents\ESILV\A3\POO\TD7\TD7\obj\Debug\netcoreapp3.1\TD7.csproj.CoreCompileInputs.cache
+C:\Users\Elie\Documents\ESILV\A3\POO\TD7\TD7\obj\Debug\netcoreapp3.1\TD7.dll
+C:\Users\Elie\Documents\ESILV\A3\POO\TD7\TD7\obj\Debug\netcoreapp3.1\TD7.pdb
+C:\Users\Elie\Documents\ESILV\A3\POO\TD7\TD7\obj\Debug\netcoreapp3.1\TD7.genruntimeconfig.cache
